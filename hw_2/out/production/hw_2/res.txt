@@ -1,0 +1,3 @@
+mean                    = 1.0
+stddev                  = 0.0
+95% confidence interval = [1.0, 1.0]
